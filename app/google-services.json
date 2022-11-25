@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052043260666",
+    "project_id": "finalatixassignment",
+    "storage_bucket": "finalatixassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052043260666:android:2619b8c5b1e8ee482fcf43",
+        "android_client_info": {
+          "package_name": "com.finalatixassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052043260666-co8jciumf245elr2qvagc57ojak318vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqD0VEsbX1mjsS1kugjzO2drjAVrmRxCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052043260666-co8jciumf245elr2qvagc57ojak318vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

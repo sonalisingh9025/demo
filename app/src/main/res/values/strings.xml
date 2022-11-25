@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalatixAssignment</string>
+
+    <string name="error_network">Please check your internet connection.</string>
+</resources>
